@@ -1,7 +1,7 @@
 {
-  "name": "react-native-ble-plx",
+  "name": "protec-react-native-ble-plx",
   "version": "3.1.1",
-  "description": "React Native Bluetooth Low Energy library",
+  "description": "React Native Bluetooth Low Energy library for PROTEC Recovery devices",
   "main": "src/index",
   "module": "src/index",
   "types": "src/index.d.ts",
@@ -63,13 +63,13 @@
     "Energy",
     "BLE"
   ],
-  "repository": "https://github.com/dotintent/react-native-ble-plx.git",
+  "repository": "https://github.com/PROTEC-Recovery/protec-react-native-ble-plx.git",
   "author": "dotintent (https://withintent.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dotintent/react-native-ble-plx/issues"
+    "url": "https://github.com/PROTEC-Recovery/protec-react-native-ble-plx/issues"
   },
-  "homepage": "https://github.com/dotintent/react-native-ble-plx#readme",
+  "homepage": "https://github.com/PROTEC-Recovery/protec-react-native-ble-plx#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
